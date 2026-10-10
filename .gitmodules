@@ -1,0 +1,9 @@
+[submodule "cpu-bound-backend"]
+	path = cpu-bound-backend
+	url = https://github.com/OSResearch-UFCG/cpu-bound-backend.git
+[submodule "io-bound-backend"]
+	path = io-bound-backend
+	url = https://github.com/OSResearch-UFCG/io-bound-backend.git
+[submodule "memory-bound-backend"]
+	path = memory-bound-backend
+	url = https://github.com/OSResearch-UFCG/memory-bound-backend.git
